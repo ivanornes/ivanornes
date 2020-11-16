@@ -11,7 +11,6 @@ I am curious, creative and humble guy that enjoys doing any kind of cool stuff w
 - 🌱 Learning more about and studying: **<a href="https://www.coursera.org/learn/machine-learning">Machine Learning, by Stanford University</a>**
 - 💬 Ping me about: **iOS Development**, **Startups**, **Silicon Valley**, **Apple**, **iOS**, **Macs**
 - 💜 Interests: CrossFit 🏋️‍♀️, Audiophile 💿 and Apple enthusiast.  
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ivanornes/">LinkedIn</a>
