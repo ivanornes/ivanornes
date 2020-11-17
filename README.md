@@ -1,19 +1,19 @@
 ### Hi, I'm Ivan 👋
 ---
 
-<!-- I'm Ivan, an iOS Developer based on Bilbao. I have been working professionally for about 9 years with a wide variety of technologies like iOS, Android, Cordova, Objective-C, Swift, Java, Javascript, Kotlin, HTML, etc. 
-I am curious, creative and humble guy that enjoys doing any kind of cool stuff with computers. -->
+<!-- I'm Ivan, an iOS Developer based in Bilbao. I have been working professionally for about 9 years with a wide variety of technologies like iOS, Android, Cordova, Objective-C, Swift, Java, Javascript, Kotlin, HTML, etc. 
+I am a curious, creative, and humble guy that enjoys doing any kind of cool stuff with computers. -->
 
-#### I'm a iOS Developer based in Bilbao, Spain.
+#### I'm an iOS Developer based in Bilbao, Spain.
 
-- 🏢 I'm currently working full-time on awesome projets
-- ⚙️ I use daily: `Xcode`, `Swift`, `zsh`, `UIKit`
-- 💻 Current laptop: 16' Macbook Pro
-- 🏠 Home network speed: Symetric 600MB Fiber
-- 📱 Phone data plan: Unlimited data
+- 🏢 I'm currently working full-time on awesome projects, and sorry, my most interesting work is not public. 
+- ⚙️ I use daily: `Xcode`, `Swift`, `UIKit`, `zsh`, ...
 - 🌱 Learning more about and studying: **<a href="https://www.coursera.org/learn/machine-learning">Machine Learning, by Stanford University</a>**, **<a href="https://www.startupschool.org">YCombinator Startup School</a>**, **<a href="https://platzi.com">Platzi</a>**, **<a href="https://codely.tv">Codely.tv</a>** and **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**
 - 💬 Ping me about: **iOS Development**, **Startups**, **Silicon Valley**, **Apple**, **iOS**, **Macs**, **Music**, **CrossFit**, **Audio Gear**
-- 💜 Interests: CrossFit 🏋️‍♀️, Audiophile 💿 and Apple enthusiast.  
+- 💜 Interests: CrossFit 🏋️‍♀️, Audiophile 💿, and Tech enthusiast 👨‍💻.  
+- 💻 Current laptop: 16' Macbook Pro
+- 🏠 Home network speed: Symmetric 600MB Fiber
+- 📱 Phone data plan: Unlimited data
 - 👨‍👩‍👧‍👦 Father of two.
 
 #### Find me around the web 🌎:
@@ -24,7 +24,7 @@ I am curious, creative and humble guy that enjoys doing any kind of cool stuff w
 
 
 <!--
-**MillyCodes/MillyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivanornes/ivanornes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
