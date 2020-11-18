@@ -8,12 +8,12 @@ I am a curious, creative, and humble guy that enjoys doing any kind of cool stuf
 
 - 🏢 I'm currently working full-time on awesome projects, and sorry, my most interesting work is not public. 
 - ⚙️ I use daily: `Xcode`, `Swift`, `UIKit`, `zsh`, ...
-- 🌱 Learning more about and studying: **<a href="https://www.coursera.org/learn/machine-learning">Machine Learning, by Stanford University</a>**, **<a href="https://www.startupschool.org">YCombinator Startup School</a>**, **<a href="https://platzi.com">Platzi</a>**, **<a href="https://codely.tv">Codely.tv</a>** and **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**
-- 💬 Ping me about: **iOS Development**, **Startups**, **Silicon Valley**, **Apple**, **iOS**, **Macs**, **Music**, **CrossFit**, **Audio Gear**
+- 🌱 Learning more about and studying: **<a href="https://www.coursera.org/learn/machine-learning">Machine Learning, by Stanford University</a>**, **<a href="https://www.startupschool.org">YCombinator Startup School</a>**, **<a href="https://platzi.com">Platzi</a>**, **<a href="https://codely.tv">Codely.tv</a>** and **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**.
+- 💬 Ping me about: **iOS Development**, **Startups**, **Silicon Valley**, **Apple**, **iOS**, **Macs**, **Music**, **CrossFit**, **Audio Gear**.
 - 💜 Interests: CrossFit 🏋️‍♀️, Audiophile 💿, and Tech enthusiast 👨‍💻.  
-- 💻 Current laptop: 16' Macbook Pro
-- 🏠 Home network speed: Symmetric 600MB Fiber
-- 📱 Phone data plan: Unlimited data
+- 💻 Current laptop: 16' Macbook Pro.
+- 🏠 Home network speed: Symmetric 600MB Fiber.
+- 📱 Phone data plan: Unlimited data.
 - 👨‍👩‍👧‍👦 Father of two.
 
 #### Find me around the web 🌎:
