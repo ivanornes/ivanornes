@@ -14,7 +14,7 @@ I am a curious, creative, and humble guy that enjoys doing any kind of cool stuf
 - 💻 Current laptop: 16' Macbook Pro.
 - 🏠 Home network speed: Symmetric 600MB Fiber.
 - 📱 Phone data plan: Unlimited data.
-- 👨‍👩‍👧‍👦 Father of two.
+- 👨‍👩‍👧‍👦 Husband and father of two.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ivanornes/">LinkedIn</a>
