@@ -20,6 +20,7 @@ I am a curious, creative, and humble guy that enjoys doing any kind of cool stuf
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ivanornes/">LinkedIn</a>
 - 🎧 Listening cool music on <a href="https://music.apple.com/profile/ivanornes"> Apple Music</a>
+- 📖 Read, reading and next books on the list <a href="https://www.goodreads.com/user/show/131888119-ivan">Goodreads</a>
 - 🌐 Up to date resume on <a href="https://ivanornes.github.io">ivanornes.github.io</a>
 - 🐦 Not Tweeting too much, but I should be reachable on <a href="https://twitter.com/ivanornes">Twitter</a>
 
