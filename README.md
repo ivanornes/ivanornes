@@ -7,7 +7,6 @@ I am a curious, creative, and humble guy that enjoys doing any kind of cool stuf
 #### I'm an iOS Developer based in Bilbao, Spain.
 
 - 🏢 I'm currently working full-time on awesome projects, and sorry, my most interesting work is not public. 
-- 📖 Currently reading: "Watchmen" by Alan Moore, "A Philosophy of Software Design" by John Ousterhout and "48 laws of power" by Robert Greene.
 - 📚 Previous reads include: "Sapiens" by Yuval Noah Harari, "Man's search for meaning" by Viktor Frankl, "Clean Architecture" by Robert C. Martin, etc
 - 🌱 Studying: Coursing the iOS Lead Essentials program at **<a href="https://www.essentialdeveloper.com">Essential Developer</a>**, **<a href="https://platzi.com">Platzi</a>** and **<a href="https://codely.tv">Codely.tv</a>**.
 - 💬 Ping me about: **iOS Development**, **Startups**, **Silicon Valley**, **Apple**, **iOS**, **Macs**, **Music**, **CrossFit**, **Audio Gear**.
